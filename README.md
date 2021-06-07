@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🌱 I'm a junior student studying Computer Science and Techonology at Zhejiang University, Hangzhou, China.
+
+🔭 My reaseach interest lies in programming language theories and formal methods.
+
+📫 You can reach me by [mailing](mailto:me@fadd.top).
+
 <!--
 **andongfan/andongfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
