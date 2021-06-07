@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I'm a junior student studying Computer Science and Techonology at Zhejiang University, Hangzhou, China.
+🌱 I'm a junior student studying Computer Science and Technology at Zhejiang University, Hangzhou, China.
 
 🔭 My reaseach interest lies in programming language theories and formal methods.
 
