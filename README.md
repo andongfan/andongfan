@@ -2,7 +2,9 @@
 
 🌱 I'm a senior student studying Computer Science and Technology at Zhejiang University, Hangzhou, China.
 
-🔭 My reaseach interest lies in programming language theories and formal methods. I am currently a Research Intern at HKU Programming Language Group.
+🔭 My reaseach interest lies in programming language theories and formal methods. 
+
+🔬 I am currently a Research Intern at HKU Programming Language Group.
 
 📫 You can reach me by [mailing](mailto:me@fadd.top).
 
