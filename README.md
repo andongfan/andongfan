@@ -4,7 +4,7 @@
 
 🔭 My reaseach interest lies in programming language theories and formal methods. 
 
-🔬 I am currently a Research Intern at HKU Programming Language Group.
+🔬 I am currently a Research Intern at [HKU Programming Language Group](https://hkuplg.github.io/).
 
 📫 You can reach me by [mailing](mailto:me@fadd.top).
 
