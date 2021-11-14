@@ -2,7 +2,7 @@
 
 🌱 I'm a senior student studying Computer Science and Technology at Zhejiang University, Hangzhou, China.
 
-🔭 My reaseach interest lies in programming language theories and formal methods. 
+🔭 My reaseach interest lies in programming language theories, and especially, type systems.
 
 🔬 I am currently a Research Intern at [HKU Programming Language Group](https://hkuplg.github.io/).
 
