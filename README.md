@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-🌱 I'm a senior student studying Computer Science and Technology at Zhejiang University, Hangzhou, China.
+🌱 I am a senior undergraduate student studying Computer Science and Technology at Zhejiang University in Hangzhou, China.
 
-🔭 My reaseach interest lies in programming language theories, and especially, type systems.
+🔭 My reaseach interest lies in programming language design and especially type systems.
 
-🔬 I am currently a Research Intern at [HKU Programming Language Group](https://hkuplg.github.io/).
+🔬 I am currently working remotely as a Research Intern at [HKU Programming Language Group](https://hkuplg.github.io/).
 
-📫 You can reach me by [mailing](mailto:me@fadd.top).
+📫 You can reach me by [mailing](mailto:afan2018@zju.edu.cn).
 
 <!--
 **andongfan/andongfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
