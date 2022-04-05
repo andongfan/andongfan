@@ -4,9 +4,9 @@
 
 🔭 My reaseach interest lies in programming language design and especially type systems.
 
-🔬 I am currently working remotely as a Research Intern at [HKU Programming Language Group](https://hkuplg.github.io/).
+🔬 I am a remote research intern and an incoming MPhil student of [TACO Lab](https://www.cse.ust.hk/~parreaux/) at HKUST, advised by [@LPTK](https://github.com/LPTK).
 
-📫 You can reach me by [mailing](mailto:afan2018@zju.edu.cn).
+📫 You can reach me by [mailing](mailto:me@andongfan.com).
 
 <!--
 **andongfan/andongfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
