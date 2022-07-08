@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-🌱 I am a senior undergraduate student studying Computer Science and Technology at Zhejiang University in Hangzhou, China.
+🌱 I am an incoming MPhil student of [TACO Lab](https://www.cse.ust.hk/~parreaux/) at HKUST, advised by [@LPTK](https://github.com/LPTK).
 
 🔭 My reaseach interest lies in programming language design and especially type systems.
-
-🔬 I am an incoming MPhil student of [TACO Lab](https://www.cse.ust.hk/~parreaux/) at HKUST, advised by [@LPTK](https://github.com/LPTK).
 
 📫 You can reach me by [mailing](mailto:me@andongfan.com).
 
